@@ -1,6 +1,6 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
-<h1 align="center">Hi 👋, I'm Chilo</h1>
-<h3 align="center">A last year student of Network Engineering with a bent towards web development</h3>
+<h1 align="left">Hi 👋, I'm Chilo</h1>
+<h3 align="left">A last year student of Network Engineering with a bent towards web development</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
